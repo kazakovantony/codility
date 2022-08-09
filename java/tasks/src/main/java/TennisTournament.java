@@ -1,4 +1,4 @@
-public class Main {
+public class TennisTournament {
     public static void main(String[] args) {
         System.out.println(solution(5, 7));
     }
